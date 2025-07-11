@@ -1,6 +1,6 @@
 # Atlantean Treasures Landing Page
 
-A responsive, modern landing page built with Nuxt 3 for online casino promotions
+A responsive, modern landing page built with Nuxt 3 for a themed promotional campaign.
 
 ![Screenshot](public/screenshot.png)
 
@@ -94,8 +94,8 @@ npm run start
 
 ## API Endpoints
 
-* `/api/jackpots` – returns current jackpots
-* `/api/games` – mock list of casino games
+* `/api/jackpots` 
+* `/api/games` 
 
 ## Live Deployment
 
